@@ -31,3 +31,8 @@ span {
 #darkred {
   background: darkred;
 }
+footer{
+  text-align: center;
+  margin: auto;
+  justify-content: baseline;
+}
